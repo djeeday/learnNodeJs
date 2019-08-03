@@ -1,2 +1,9 @@
 node_modules/*
+.idea
 .vscode/*
+node_modules/*
+.vscode/*
+package-lock.json
+package.json
+.idea/*
+.gitignore
